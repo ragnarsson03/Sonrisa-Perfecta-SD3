@@ -1,3 +1,11 @@
-# Sonrisa-Perfecta-SD3
+# 🧙‍♂️ Academia de Magia y Hechicería 🧙‍♀️
 
-![UNETI Logo](UNETI.png)
+**Autor:**
+- Frederick Durán (30346056)  
+
+  
+**Profesora:** Ing. Yuly Carolina Delgado de Plua  
+
+<p align="center">
+  <img src="./UNETI.png" alt="UNETI Logo">
+</p>
