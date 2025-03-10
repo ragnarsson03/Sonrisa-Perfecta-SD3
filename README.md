@@ -4,6 +4,8 @@ Sistema integral para la gestión de clínicas dentales que facilita la administ
 
 URL al Sistema de Archivos:
 
+https://github.com/ragnarsson03/Sistema-de-Gesti-n-de-Pacientes-para-Cl-nica-Dental-Sonrisa-Perfecta---Caso-de-Estudio-41
+
 
 ## Autor
 
@@ -45,14 +47,14 @@ Ing. Yuly Carolina Delgado de Plua
 
 ## 📋 Requisitos del Sistema
 
-- PostgreSQL 17.0 o superior
+- PostgreSQL 17.0 o superior para migrar la base de datos
 - Navegador web moderno
 - Conexión a internet estable
 - Servidor web compatible
 
 ## 🔒 Seguridad
 
-- Autenticación de usuarios
+- Autenticación de usuario
 - Encriptación de datos sensibles
 - Control de acceso por roles
 - Registro de actividades
@@ -62,6 +64,7 @@ Ing. Yuly Carolina Delgado de Plua
 
 - Manual de usuario
 - Guía de instalación 
+
 
 
 
